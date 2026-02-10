@@ -1,0 +1,37 @@
+# Data files (too large for GitHub)
+data/raw/*
+data/processed/*
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.fasta
+*.fa
+*.rds
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/combined/.gitkeep
+!data/results/.gitkeep
+
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.pkl
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
