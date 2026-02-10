@@ -21,9 +21,9 @@ Machine learning model for genome-wide prediction of TDP-43 dysfunction from RNA
 ## 📊 Status
 
 🟢 Phase 1: Setup (In Progress)  
-⚪ Phase 2: Genome-wide Analysis (Planned)  
-⚪ Phase 3: ML Modeling (Planned)  
-⚪ Phase 4: Publication (Planned)
+⚪ Phase 2: Genome-wide Analysis (tdb)  
+⚪ Phase 3: ML Modeling (tdb)  
+⚪ Phase 4: Publication (tdb)
 
 ---
 
