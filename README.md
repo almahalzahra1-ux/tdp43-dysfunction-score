@@ -11,10 +11,10 @@ Machine learning model for genome-wide prediction of TDP-43 dysfunction from RNA
 **KAUST Academy Bioinformatics Project - February 2026**
 
 - **Almokhtar Aljarodi** - Project Lead
-- **Rahma** - Data Analysis Lead
-- **Ahmed** - ML Model Development
-- **Omar** - GO Enrichment & Pathways
-- **Zahra** - Documentation & Writing
+- **Rahma Abufoor** - Data Analysis Lead
+- **Ahmed Bukhamsin** - ML Model Development
+- **Omar Buqes** - GO Enrichment & Pathways
+- **Zahra Almahal** - Documentation & Writing
 
 ---
 
@@ -34,6 +34,7 @@ Machine learning model for genome-wide prediction of TDP-43 dysfunction from RNA
 **Platform:** Illumina HiSeq 2500, PE 2×76bp  
 **Reference:** GRCh38  
 **Chromosomes:** chr1-22, X, Y
+
 
 ---
 
